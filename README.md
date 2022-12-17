@@ -1,6 +1,8 @@
 # AssaultCube-Cheat
 A simple cheat for assault cube game
 
+Last update: 17/12/2022
+
 How To:
 * Create new c++ project in visual studio.
 * Project properties -> Configuration Properties -> General -> Configuration Type: Dynamic Library (.dll).
